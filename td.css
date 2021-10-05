@@ -6,7 +6,7 @@
 
 body{
 	background: linear-gradient(90deg,blue,skyblue,blue);
-	background-image: url(https://i.pinimg.com/originals/9b/af/93/9baf93ede642258f550354764aecfc04.gif);
+	background-image: url(https://media.giphy.com/media/3o85xzkvl1siB2rHSo/giphy.gif);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -29,7 +29,7 @@ body{
 
 @keyframes ror{
 	30%{
-		transform: rotateX(25deg);
+		transform: rotateX(30deg);
 	}
 	80%{
 		transform: rotateX(-15deg);
